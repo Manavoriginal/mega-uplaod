@@ -24,23 +24,23 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Make a bot from https://t.me/BotFather and enter the token here.",
-      "value": ""
+      "value": "6090268851:AAEJEsvs8nB_YKQc3tKy5hVpeWgu53kwjuI"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "23977500"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "a4bfcc57b242dc49952c02c593b47edb"
     },
     "Bot_username": {
       "description": "Your bot's telegram username (must enter with '@' in the front of the username)",
-      "value": ""
+      "value": "@megauploadbymac_bot"
     },
     "OWNER_ID": {
       "description": "Your(owner's) telegram id",
-      "value": ""
+      "value": "1483612913"
     },
     "AUTH_USERS": {
       "description": "Id's of the telegram users, who you want to allow for multitasking - downloading multiple links at once! In heroku separate the ids by space. (don't put commas. Only separate each of the id's with space)",
@@ -49,11 +49,11 @@
     },
     "REDIS_URI": {
       "description": "Redis Endpoint, Get This Value from http://redislabs.com/try-free (If you don't know how to obtain these values a complete video tutorial is available here:- https://t.me/botzupdate/5)",
-      "value": ""
+      "value": "redis-10427.c301.ap-south-1-1.ec2.cloud.redislabs.com:10427"
     },
     "REDIS_PASS": {
       "description": "Redis Password, Get This Value from http://redislabs.com/try-free (If you don't know how to obtain these values a complete video tutorial is available here:- https://t.me/botzupdate/5)",
-      "value": ""
+      "value": "LwQI2wQzdlQeL7xpZFXgv2JJXtuXZCTk"
     },
     "Mega_email": {
       "description": "This is not necessary! Enter your mega email only if you have a mega.nz account with pro/business features. (Keep as 'None' if you don't have one)",

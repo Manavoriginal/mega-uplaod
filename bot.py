@@ -27,9 +27,9 @@ if __name__ == "__main__" :
     )
     app = pyrogram.Client(
         "Mega_Link_Downloader_Bot",
-        bot_token=6090268851:AAEJEsvs8nB_YKQc3tKy5hVpeWgu53kwjuI,
-        api_id=Config.23977500,
-        api_hash=Config.a4bfcc57b242dc49952c02c593b47edb,
+         bot_token=Config.TG_BOT_TOKEN, 
+         api_id=Config.APP_ID, 
+         api_hash=Config.API_HASH,
         plugins=plugins
     )
     app.run()
